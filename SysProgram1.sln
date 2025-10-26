@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exe2", "exe2", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{AF523073-CB4B-495B-A39E-A087B61CED9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exe1", "exe1", "{A7B6DD3C-2AAA-4C82-84F5-794443A37CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe111", "Exe111\Exe111.csproj", "{D6FA1828-56E9-4A2F-B889-08863BCA42CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF523073-CB4B-495B-A39E-A087B61CED9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF523073-CB4B-495B-A39E-A087B61CED9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF523073-CB4B-495B-A39E-A087B61CED9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF523073-CB4B-495B-A39E-A087B61CED9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FA1828-56E9-4A2F-B889-08863BCA42CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FA1828-56E9-4A2F-B889-08863BCA42CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FA1828-56E9-4A2F-B889-08863BCA42CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FA1828-56E9-4A2F-B889-08863BCA42CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AF523073-CB4B-495B-A39E-A087B61CED9E} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{D6FA1828-56E9-4A2F-B889-08863BCA42CD} = {A7B6DD3C-2AAA-4C82-84F5-794443A37CFD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E0CB3CB-83C6-4AD5-AAFA-B3F7154B2E95}
+	EndGlobalSection
+EndGlobal
